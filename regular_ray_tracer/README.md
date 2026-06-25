@@ -13,7 +13,7 @@ The rest of this md file will contain any notes that i may decide are important 
 ### PPM: Portable Pixmap 
 super basic uncompressed image file format that stores an image as plain pixel data, listing the rgb color values for every pixel in order. its part of the ntpbm format family.
 
-[PPM EXAMPLE](src/CH2_ppm/ppm_example.cpp)
+[PPM EXAMPLE](CH2_ppm/ppm_example.cpp)
 
 This file contains an example of PPM image generation.
 

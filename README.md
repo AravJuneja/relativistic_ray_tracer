@@ -1,7 +1,7 @@
 # Relatavistic Ray Tracer on the GPU  
 `author gh: @aravjuneja` 
 
-currently the point of the project is to implement papers/interstellar.pdf for my own learning in cuda. the paper originally implemented in c++ but i plan to do it in cuda so i will be parallelizing the geodesic integration across pixels on the gpu. 
+currently the point of the project is to implement papers/interstellar.pdf for my own learning in cuda. the paper originally implemented in c++ but i plan to do it in cuda so i will be parallelizing the geodesic integration cross pixels on the gpu. 
 
 
 Notes from `papers/interstellar.pdf`

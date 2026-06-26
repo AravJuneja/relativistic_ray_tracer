@@ -5,7 +5,9 @@ currently the point of the project is to implement papers/interstellar.pdf for m
 
 i realized a little later than i should have that to code a relatavistic ray tracer on the gpu i first need to be able to code a regular ray tracer. my implementation can be found in 'regular_ray_tracer/`.  
 
-notes from `papers/interstellar.pdf`
+The rest of this README are my notes.
+
+# notes from `papers/interstellar.pdf`
 
 ## dngr: double negative gravitational renderer code
 
